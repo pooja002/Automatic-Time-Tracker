@@ -1,0 +1,44 @@
+﻿{
+    "activities": [
+        {
+            "name": "auto",
+            "timeSpent": [
+                {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0
+                }
+            ]
+        },
+        {
+            "name": "Code",
+            "timeSpent": [
+                {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0
+                }
+            ]
+        },
+        {
+            "name": "SearchUI",
+            "timeSpent": [
+                {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0
+                }
+            ]
+        },
+        {
+            "name": "chrome",
+            "timeSpent": [
+                {
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 0
+                }
+            ]
+        }
+    ]
+}
