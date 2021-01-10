@@ -9,7 +9,7 @@ This python app lets you track the time you spend on each window that you're int
 * psutil- ``` pip install psutil ```
 
 # Files
-[actvities.json](Automatic-Time-Tracker/activities.json)- This file contains all data regarding the time spent on each app that is mentioned in activityList.json.
+[actvities.json](https://github.com/pooja002/Automatic-Time-Tracker/blob/master/activities.json)- This file contains all data regarding the time spent on each app that is mentioned in activityList.json.
 
 activityList.json- This file contains list of windows that user is interested to track.
 
