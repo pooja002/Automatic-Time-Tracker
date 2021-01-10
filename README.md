@@ -13,9 +13,9 @@ This python app lets you track the time you spend on each window that you're int
 
 [activityList.json](https://github.com/pooja002/Automatic-Time-Tracker/blob/master/activityList.json)- This file contains list of windows that user is interested to track.
 
-[auto.exe] (https://github.com/pooja002/Automatic-Time-Tracker/blob/master/auto.exe)- This is an executable file compiled using pyinstaller. 
+[auto.exe](https://github.com/pooja002/Automatic-Time-Tracker/blob/master/auto.exe)- This is an executable file compiled using pyinstaller. 
 
-[auto.py] (https://github.com/pooja002/Automatic-Time-Tracker/blob/master/auto.py) - This is the python source file.
+[auto.py](https://github.com/pooja002/Automatic-Time-Tracker/blob/master/auto.py) - This is the python source file.
 
 # TODO's:
 
